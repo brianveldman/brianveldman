@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there I'm Brian Veldman 👋
 
-<!--
-**brianveldman/brianveldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - ❤️ Cloud Solution Architect at Fellowmind 
+ - 🚀 Working with Azure DevOps, GitHub and Infrastructure-as-Code
+ - 😎 Blogging on Azure Bicep and Azure DevOps and Azure at [https://cloudtips.nl/](https://cloudtips.nl/)
+ - 🤠 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-brianveldman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianveldman/)](https://www.linkedin.com/in/brianveldman/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+![Brian's Commit stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianveldman&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianveldman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
