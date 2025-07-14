@@ -2,7 +2,7 @@
 
  - ❤️ Cloud Solution Architect at Fellowmind 
  - 🚀 Working with Azure DevOps, GitHub and Infrastructure-as-Code
- - 😎 Blogging on Azure Bicep and Azure DevOps and Azure at [https://cloudtips.nl/](https://cloudtips.nl/)
+ - 😎 Blogging on Azure Bicep, Azure DevOps and Azure at [https://cloudtips.nl/](https://cloudtips.nl/)
  - 🤠 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-veldman/)
 
 ---
