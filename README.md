@@ -1,9 +1,12 @@
 ### Hi there I'm Brian Veldman 👋
 
- - ❤️ Cloud Solution Architect at Fellowmind 
+ - ❤️ Cloud Solution Architect at Fellowmind
+ - ✨ Microsoft MVP on Azure Infrastructure-as-Code and Security Identity and Access
  - 🚀 Working with Azure DevOps, GitHub and Infrastructure-as-Code
  - 😎 Blogging on Azure Bicep, Azure DevOps and Azure at [https://cloudtips.nl/](https://cloudtips.nl/)
  - 🤠 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-veldman/)
+
+![](./Microsoft_MVP_banner.png)
 
 ---
 
